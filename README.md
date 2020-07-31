@@ -11,4 +11,5 @@ These can be downloaded From [here](https://github.com/opencv/opencv/tree/master
 Here are some sample images from video_detection File
 
 ![elon musk](/image/elonmusk.jpg)
+
 ![face masl](/image/mask.jpg)
