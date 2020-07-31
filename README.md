@@ -8,8 +8,24 @@ Using the  dnn module with the Caffe models there are 2 files needed :
 
 These can be downloaded From [here](https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector)
 
-Here are some sample images from video_detection File
+### Here are some sample images from video_detection File
 
 ![elon musk](/image/elonmusk.jpg)
 
 ![face masl](/image/mask.jpg)
+
+### How to run
+
+for windows
+
+for face detection in image
+
+python face_detection.py --image [path image name] --prototxt [prototxt file] --model [caffe model file]
+
+for face detection in video
+
+python face_detection.py --prototxt [prototxt file] --model [caffe model file]
+
+### Credits
+
+This file was made with the help from the [blog](https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
