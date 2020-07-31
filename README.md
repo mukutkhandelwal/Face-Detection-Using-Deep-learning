@@ -1,6 +1,6 @@
 # Face-Detection-Using-Deep-learning
 
-An End To End deep learning face detection  application with openCV with pre-trained deeplearning face detector present in the library which is present in the Deep neural network(DNN) module of openCV.
+An End To End deep learning face detection  application with openCV with pre-trained deeplearning face detector  which is present in the Deep neural network(DNN) module of openCV.
 
 Using the  dnn module with the Caffe models there are 2 files needed :
 1. .prototxt file which contains the model architecture
